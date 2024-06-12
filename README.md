@@ -68,10 +68,13 @@ KNeighborsClassifier: 0.97
 
 ### Best Performer:
 The KNeighborsClassifier demonstrates the best overall performance:
+
 Highest accuracy (0.82)
+
 Highest weighted average F1-score (0.80)
+
 Maintains a good balance of precision and recall across both classes
-Overall, the KNeighborsClassifier is recommended due to its superior performance in accuracy, F1-score, and recall for loan approval prediction.
+and Overall, the KNeighborsClassifier is recommended due to its superior performance in accuracy, F1-score, and recall for loan approval prediction.
 
 ### Technologies
 Programming Language: Python
